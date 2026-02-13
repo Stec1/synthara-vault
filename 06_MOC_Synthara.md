@@ -1,0 +1,49 @@
+---
+type: moc
+project: synthara
+tags: [synthara, moc, status/active]
+---
+
+#  06 — Synthara MOC (Map of Content)
+
+> [!abstract]
+> **Каталог 2-го рівня.**  
+> Тут зібрані playbooks, SOP, системи росту та операційні журнали.
+
+---
+
+##  Intelligence (2nd Layer)
+- [[10_Nansen_Playbook]]
+- [[11_Onchain_Sources]]
+- [[12_Alpha_Scoring_Model]]
+- [[13_Wallet_Watchlists]]
+
+---
+
+##  Production (2nd Layer)
+- [[20_ComfyUI_Workflows]]
+- [[21_LoRA_Identity_Standard]]
+- [[22_Higgsfield_Reels_SOP]]
+- [[23_NanoBanana_Lookdev_Library]]
+
+---
+
+## Distribution (2nd Layer)
+- [[30_IG_Reels_System]]
+- [[31_X_Thread_Playbook]]
+- [[32_Farcaster_Growth_System]]
+
+---
+
+##  Economy (2nd Layer)
+- [[40_Tokenomics_Working_Draft]]
+- [[41_IAO_Launch_Playbook]]
+- [[42_Clawbot_Gating_Roles]]
+- [[43_Moltbook_Office_Structure]]
+
+---
+
+##  Operating System
+- [[90_Sprints_And_OKRs]]
+- [[91_Decision_Log]]
+- [[92_Risk_Register]]
