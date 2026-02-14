@@ -35,7 +35,8 @@ Synthara — це:
 - [[04_Economy_Strategy]]
 - [[05_Content_Matrix]]
 ## Knowledge Expansion
-- [[06_MOC_Synthara]]
+
+- [[06_MOC_Synthara]] — 2nd-layer index (playbooks, SOPs, OS)
 
 ## Navigation Map (Hub → Spokes)
 
