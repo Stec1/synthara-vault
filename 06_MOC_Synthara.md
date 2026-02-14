@@ -6,6 +6,11 @@ tags: [synthara, moc, status/active]
 
 #  06 — Synthara MOC (Map of Content)
 
+← Back to [[00_Synthara_Genesis]]
+
+> This note is a catalog/index of 2nd-layer modules.
+> Use [[00_Synthara_Genesis]] as the primary hub for navigation.
+
 > [!abstract]
 > **Каталог 2-го рівня.**  
 > Тут зібрані playbooks, SOP, системи росту та операційні журнали.

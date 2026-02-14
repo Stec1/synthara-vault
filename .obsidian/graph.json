@@ -1,12 +1,34 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#synthara",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#layer/core"
+    },
+    {
+      "query": "tag:#layer/second"
+    },
+    {
+      "query": "tag:#domain/ops"
+    },
+    {
+      "query": "tag:#domain/intelligence"
+    },
+    {
+      "query": "tag:#domain/production"
+    },
+    {
+      "query": "tag:#domain/distribution"
+    },
+    {
+      "query": "tag:#domain/economy"
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
