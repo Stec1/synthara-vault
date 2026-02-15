@@ -39,6 +39,7 @@ Synthara — це:
 ## Operating System
 
 - [[10_Performance_Feedback_System]] — learning & evolution layer
+- [[12_Semi_Automation_Blueprint]] — human-in-the-loop architecture
 
 ## Knowledge Expansion
 

@@ -45,6 +45,9 @@ tags: [synthara, core, layer/core, domain/intelligence, status/active]
 ## Agent Expansion Layer
 Reference: [[11_Agent_Submodules]]
 
+## Operational Mode
+See [[12_Semi_Automation_Blueprint]]
+
 ## Links
 - Back to [[00_Synthara_Genesis]]
 - Connect to [[01_Identity_Soul]], [[02_Brain_Intelligence]], [[05_Content_Matrix]], [[10_Nansen_Playbook]], [[12_Alpha_Scoring_Model]], [[30_IG_Reels_System]], [[91_Decision_Log]], [[92_Risk_Register]]
