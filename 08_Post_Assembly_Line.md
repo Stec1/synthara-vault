@@ -11,6 +11,7 @@ tags: [synthara, system, pipeline, layer/core, domain/distribution, status/activ
 
 ## Inputs (Signal Intake)
 Link and define required inputs:
+- [[09_Signal_Intake_Form]] — structured intake before drafting
 - [[10_Nansen_Playbook]] (signal discovery)
 - [[11_Onchain_Sources]] (secondary validation)
 - [[13_Wallet_Watchlists]] (context)
