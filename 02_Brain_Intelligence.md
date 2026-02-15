@@ -15,6 +15,9 @@ tags:
 
 ---
 
+## Signal Intake Protocol
+All signals must be logged via [[09_Signal_Intake_Form]] before scoring or narrative construction.
+
 ## Smart Money Detection Algorithm
 
 ### Step-by-Step

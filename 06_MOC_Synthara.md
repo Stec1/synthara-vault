@@ -18,6 +18,7 @@ tags: [synthara, moc, status/active]
 ---
 
 ##  Intelligence (2nd Layer)
+- [[09_Signal_Intake_Form]] — signal logging template
 - [[10_Nansen_Playbook]]
 - [[11_Onchain_Sources]]
 - [[12_Alpha_Scoring_Model]]
