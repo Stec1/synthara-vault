@@ -1,11 +1,34 @@
 ---
-type: module
+type: playbook
 project: synthara
 layer: second
 domain: economy
-status: active
-tags: [synthara, module, layer/second, domain/economy, status/active]
+status: draft
+tags:
+  - synthara
+  - iao
+  - launch
 ---
 
 ← Back to [[04_Economy_Strategy]]
-Also listed in [[06_MOC_Synthara]]
+
+# 41 — IAO Strategy (Pre-Launch Blueprint)
+
+## Preconditions Before Launch
+- 12+ weeks consistent alpha
+- Documented Decision Log performance
+- Recognizable authority pattern
+- Performance Intelligence data
+
+## Launch Narrative
+Not:
+“Buy Synthara token”
+
+But:
+“Access the intelligence layer”
+
+## Launch Assets Required
+- Performance track record
+- Example gated reports
+- Utility demo
+- Risk disclosure framework
