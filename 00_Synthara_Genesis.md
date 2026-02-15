@@ -41,6 +41,7 @@ Synthara — це:
 - [[10_Performance_Feedback_System]] — learning & evolution layer
 - [[12_Semi_Automation_Blueprint]] — human-in-the-loop architecture
 - [[13_Draft_Generator_Engine]] — automated draft generation layer
+- [[15_Brain_Profile_From_Questionnaire]] — SSOT brain settings (questionnaire)
 
 ## Knowledge Expansion
 
