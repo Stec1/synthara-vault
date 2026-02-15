@@ -23,6 +23,7 @@ tags: [synthara, moc, status/active]
 - [[11_Onchain_Sources]]
 - [[12_Alpha_Scoring_Model]]
 - [[13_Wallet_Watchlists]]
+- [[11_Agent_Submodules]] — internal intelligence modules
 
 ---
 
