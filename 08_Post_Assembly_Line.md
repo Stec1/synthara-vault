@@ -68,6 +68,9 @@ Define roles explicitly:
 - Publish only when gates pass.
 - Default max: 3–4 deep posts/week.
 
+## Step 8 — Performance Logging
+→ Log in [[10_Performance_Feedback_System]]
+
 ## Links
 Include links back:
 - [[00_Synthara_Genesis]]
