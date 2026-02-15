@@ -64,6 +64,9 @@ Define roles explicitly:
 - Yurii: visual taste, humor, final approval, face/scene choice
 - Synthara system: structure, analysis framing, scripting, checklists
 
+## Draft generation
+- Use [[13_Draft_Generator_Engine]] to produce 3 variants and pass final gates.
+
 ## Minimum cadence rule (Low-frequency / High-signal)
 - Publish only when gates pass.
 - Default max: 3–4 deep posts/week.
