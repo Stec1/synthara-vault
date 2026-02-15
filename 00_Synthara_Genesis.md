@@ -36,6 +36,10 @@ Synthara — це:
 - [[05_Content_Matrix]]
 - [[07_Cognitive_Core]] — Cognitive Matrix (how Synthara thinks + publish gates)
 - [[08_Post_Assembly_Line]] — Signal→Post pipeline (checklists + templates)
+## Operating System
+
+- [[10_Performance_Feedback_System]] — learning & evolution layer
+
 ## Knowledge Expansion
 
 - [[06_MOC_Synthara]] — 2nd-layer index (playbooks, SOPs, OS)
