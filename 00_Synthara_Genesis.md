@@ -34,6 +34,7 @@ Synthara — це:
 - [[03_Body_Production]]
 - [[04_Economy_Strategy]]
 - [[05_Content_Matrix]]
+- [[07_Cognitive_Core]] — Cognitive Matrix (how Synthara thinks + publish gates)
 ## Knowledge Expansion
 
 - [[06_MOC_Synthara]] — 2nd-layer index (playbooks, SOPs, OS)

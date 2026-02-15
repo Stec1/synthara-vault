@@ -49,6 +49,7 @@ tags: [synthara, moc, status/active]
 ---
 
 ##  Operating System
+- [[07_Cognitive_Core]] — Cognitive core & decision gates
 - [[90_Sprints_And_OKRs]]
 - [[91_Decision_Log]]
 - [[92_Risk_Register]]
