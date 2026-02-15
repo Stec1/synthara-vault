@@ -35,6 +35,7 @@ Synthara — це:
 - [[04_Economy_Strategy]]
 - [[05_Content_Matrix]]
 - [[07_Cognitive_Core]] — Cognitive Matrix (how Synthara thinks + publish gates)
+- [[08_Post_Assembly_Line]] — Signal→Post pipeline (checklists + templates)
 ## Knowledge Expansion
 
 - [[06_MOC_Synthara]] — 2nd-layer index (playbooks, SOPs, OS)
