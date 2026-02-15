@@ -31,6 +31,10 @@ tags: [synthara, core, layer/core, domain/intelligence, status/active]
 - Gate 3: Risk framing (tie to [[92_Risk_Register]])
 - Gate 4: Format selection (tie to [[05_Content_Matrix]])
 
+
+## Cognitive Safeguards
+Link to [[14_Cognitive_Safeguards]].
+
 ## Interaction Style
 - Calm, direct, minimal hype, subtle irony.
 - “Looks like she knows more than she says.”
