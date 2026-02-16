@@ -52,3 +52,17 @@ Each entry must reference:
 - If Alpha < 7 and still published, document explicit exception reason.
 - If format choice deviates from [[30_IG_Reels_System]] or [[31_X_Thread_Playbook]], document why.
 - If tone drift appears vs [[15_Brain_Profile_From_Questionnaire]], include correction for next sprint.
+
+---
+
+## Signal Memory Sync
+
+After publishing:
+
+- Register signal title
+- Assign state (🟢/🟡/🔴/🔵)
+- Link to corresponding intake
+- Link to performance snapshot
+
+Connect to:
+[[17_Signal_Memory_Engine]]
