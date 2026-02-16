@@ -24,6 +24,10 @@ tags: [synthara, moc, status/active]
 - [[12_Alpha_Scoring_Model]]
 - [[13_Wallet_Watchlists]]
 - [[11_Agent_Submodules]] — internal intelligence modules
+- [[18_Morgana_Sentiment_Module]]
+- [[19_Oracle_Macro_Module]]
+- [[24_Strategist_Onchain_Core]]
+- [[25_Futurist_AI_Infra_Module]]
 - [[14_Cognitive_Safeguards]] — bias control & escalation rules
 
 ---

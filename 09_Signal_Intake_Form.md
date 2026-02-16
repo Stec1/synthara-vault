@@ -27,6 +27,15 @@ tags: [synthara, intake, signal, layer/core, domain/intelligence, status/active]
 - Previous behavior pattern:
 - Historical similarity:
 
+## Submodule Pass
+
+- Morgana (Sentiment):
+- Oracle (Macro):
+- Strategist (Onchain):
+- Futurist (AI infra):
+
+All signals must pass through submodules before Alpha scoring.
+
 ## Alpha Score
 Reference: [[12_Alpha_Scoring_Model]]
 
