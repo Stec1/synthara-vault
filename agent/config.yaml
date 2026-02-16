@@ -1,0 +1,6 @@
+model: gpt-4o-mini
+alpha_threshold: 7
+vault_paths:
+  inbox: "_inbox/"
+  outbox: "_outbox/"
+  decision_log: "91_Decision_Log.md"
