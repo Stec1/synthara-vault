@@ -1,6 +1,7 @@
 ---
-type: module
-project: synthara
+type: note
+project: Synthara
+module: core
 layer: core
 tags:
   - synthara
