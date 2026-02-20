@@ -8,6 +8,13 @@ tags: [synthara, moc, status/active]
 
 ← Back to [[00_Synthara_Genesis]]
 
+## Module Map
+- core
+- market
+- content
+- visual
+- ops
+
 > This note is a catalog/index of 2nd-layer modules.
 > Use [[00_Synthara_Genesis]] as the primary hub for navigation.
 
