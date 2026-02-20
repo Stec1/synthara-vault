@@ -1,13 +1,11 @@
 ---
-type: structure
 project: synthara
+module: ops
+type: system
+tags: []
 layer: second
 domain: economy
 status: draft
-tags:
-  - synthara
-  - moltbook
-  - office
 ---
 
 ← Back to [[04_Economy_Strategy]]

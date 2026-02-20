@@ -1,13 +1,11 @@
 ---
-type: module
 project: synthara
+module: market
+type: note
+tags: []
 layer: intelligence
 domain: ai
 status: active
-tags:
-  - synthara
-  - futurist
-  - ai-infra
 ---
 
 # Futurist — AI x Crypto Infra Radar

@@ -1,13 +1,11 @@
 ---
-type: module
 project: synthara
+module: market
+type: note
+tags: []
 layer: intelligence
 domain: onchain
 status: active
-tags:
-  - synthara
-  - strategist
-  - onchain
 ---
 
 # Strategist — Onchain Intelligence Core

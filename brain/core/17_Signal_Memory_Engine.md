@@ -1,15 +1,11 @@
 ---
-type: note
 project: synthara
 module: core
+type: note
+tags: []
 layer: operating
 domain: memory
 status: active
-tags:
-  - synthara
-  - signal
-  - memory
-  - consistency
 ---
 
 ← Back to [[06_MOC_Synthara]]  

@@ -1,14 +1,11 @@
 ---
-type: module
 project: synthara
+module: visual
+type: note
+tags: []
 layer: second
 domain: production
 status: active
-tags:
-  - synthara
-  - comfyui
-  - workflows
-  - production
 ---
 
 ← Back to [[03_Body_Production]]  

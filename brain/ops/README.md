@@ -1,3 +1,10 @@
+---
+project: synthara
+module: ops
+type: system
+tags: []
+---
+
 # Synthara Local Orchestrator (v1)
 
 ## Purpose

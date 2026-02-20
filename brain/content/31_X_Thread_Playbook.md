@@ -1,14 +1,11 @@
 ---
-type: playbook
 project: synthara
+module: content
+type: note
+tags: []
 layer: second
 domain: distribution
 status: active
-tags:
-  - synthara
-  - x
-  - threads
-  - playbook
 ---
 
 ← Back to [[05_Content_Matrix]]  

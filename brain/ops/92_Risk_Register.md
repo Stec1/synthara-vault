@@ -1,13 +1,11 @@
 ---
-type: register
 project: synthara
+module: ops
+type: system
+tags: []
 layer: operating
 domain: risk
 status: active
-tags:
-  - synthara
-  - risk
-  - register
 ---
 
 ← Back to [[06_MOC_Synthara]]

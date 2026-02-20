@@ -1,13 +1,11 @@
 ---
-type: module
 project: synthara
+module: market
+type: note
+tags: []
 layer: intelligence
 domain: sentiment
 status: active
-tags:
-  - synthara
-  - morgana
-  - sentiment
 ---
 
 # Morgana — Sentiment Scanner

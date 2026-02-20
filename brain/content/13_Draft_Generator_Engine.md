@@ -1,10 +1,11 @@
 ---
-type: system
 project: synthara
+module: content
+type: note
+tags: []
 layer: operating
 domain: distribution
 status: active
-tags: [synthara, generator, automation, operating, domain/distribution, status/active]
 ---
 
 # Draft Generator Engine (v1.1)

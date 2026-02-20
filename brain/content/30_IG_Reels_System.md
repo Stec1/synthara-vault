@@ -1,14 +1,11 @@
 ---
-type: system
 project: synthara
+module: content
+type: note
+tags: []
 layer: second
 domain: distribution
 status: active
-tags:
-  - synthara
-  - instagram
-  - reels
-  - distribution
 ---
 
 ← Back to [[05_Content_Matrix]]  

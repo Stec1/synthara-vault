@@ -1,15 +1,11 @@
 ---
-type: module
 project: synthara
+module: content
+type: note
+tags: []
 layer: second
 domain: distribution
 status: active
-tags:
-  - synthara
-  - farcaster
-  - distribution
-  - growth
-  - casts
 ---
 
 ← Back to [[05_Content_Matrix]]  

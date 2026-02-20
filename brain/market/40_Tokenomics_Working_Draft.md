@@ -1,14 +1,11 @@
 ---
-type: strategy
 project: synthara
+module: market
+type: note
+tags: []
 layer: second
 domain: economy
 status: active
-tags:
-  - synthara
-  - tokenomics
-  - utility
-  - economy
 ---
 
 ← Back to [[04_Economy_Strategy]]  

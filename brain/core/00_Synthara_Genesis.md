@@ -1,12 +1,9 @@
 ---
-type: hub
 project: synthara
 module: core
+type: hub
+tags: []
 layer: core
-tags:
-  - synthara
-  - hub
-  - status/active
 ---
 
 

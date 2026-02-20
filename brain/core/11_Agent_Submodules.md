@@ -1,15 +1,11 @@
 ---
-type: note
 project: synthara
 module: core
+type: note
+tags: []
 layer: core
 domain: intelligence
 status: active
-tags:
-  - synthara
-  - agent
-  - architecture
-  - intelligence
 ---
 
 # Agent Submodules Architecture (v1.0)

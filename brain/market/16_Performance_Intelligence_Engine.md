@@ -1,14 +1,11 @@
 ---
-type: system
 project: synthara
+module: market
+type: note
+tags: []
 layer: operating
 domain: analytics
 status: active
-tags:
-  - synthara
-  - performance
-  - intelligence
-  - analytics
 ---
 
 ← Back to [[06_MOC_Synthara]]  

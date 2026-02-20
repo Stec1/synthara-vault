@@ -1,14 +1,11 @@
 ---
-type: module
 project: synthara
+module: market
+type: note
+tags: []
 layer: second
 domain: intelligence
 status: active
-tags:
-  - synthara
-  - wallets
-  - watchlists
-  - intelligence
 ---
 
 ← Back to [[02_Brain_Intelligence]]

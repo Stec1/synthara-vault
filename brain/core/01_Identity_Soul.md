@@ -1,12 +1,9 @@
 ---
-type: note
 project: synthara
 module: core
+type: note
+tags: []
 layer: core
-tags:
-  - synthara
-  - core
-  - status/active
 ---
 
 ---

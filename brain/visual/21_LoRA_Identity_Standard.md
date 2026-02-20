@@ -1,14 +1,11 @@
 ---
-type: standard
 project: synthara
+module: visual
+type: note
+tags: []
 layer: second
 domain: production
 status: active
-tags:
-  - synthara
-  - lora
-  - identity
-  - standard
 ---
 
 ← Back to [[03_Body_Production]]  
