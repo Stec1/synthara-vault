@@ -1,6 +1,7 @@
 ---
-type: core
-project: synthara
+type: note
+project: Synthara
+module: core
 layer: core
 domain: intelligence
 status: active

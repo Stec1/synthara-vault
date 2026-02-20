@@ -1,6 +1,7 @@
 ---
-type: system
-project: synthara
+type: note
+project: Synthara
+module: core
 layer: operating
 domain: memory
 status: active

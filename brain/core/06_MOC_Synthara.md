@@ -1,7 +1,11 @@
 ---
 type: moc
-project: synthara
-tags: [synthara, moc, status/active]
+project: Synthara
+module: core
+tags:
+  - synthara
+  - moc
+  - status/active
 ---
 
 #  06 — Synthara MOC (Map of Content)
