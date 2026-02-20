@@ -1,6 +1,6 @@
 ---
 type: moc
-project: Synthara
+project: synthara
 module: core
 tags:
   - synthara
@@ -13,11 +13,11 @@ tags:
 ← Back to [[00_Synthara_Genesis]]
 
 ## Module Map
-- core
-- market
-- content
-- visual
-- ops
+- core → [[01_Identity_Soul]]
+- market → [[10_Nansen_Playbook]]
+- content → [[05_Content_Matrix]]
+- visual → [[03_Body_Production]]
+- ops → [[00_PIPELINE_MAP]]
 
 > This note is a catalog/index of 2nd-layer modules.
 > Use [[00_Synthara_Genesis]] as the primary hub for navigation.
