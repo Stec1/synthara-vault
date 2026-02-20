@@ -1,16 +1,16 @@
 ---
-type: standard
 project: synthara
-layer: second
-domain: production
-status: active
+module: visual
+type: note
 tags:
   - synthara
   - lora
   - identity
   - standard
+layer: second
+domain: production
+status: active
 ---
-
 ← Back to [[03_Body_Production]]  
 Also listed in [[06_MOC_Synthara]]  
 Profile: [[15_Brain_Profile_From_Questionnaire]]

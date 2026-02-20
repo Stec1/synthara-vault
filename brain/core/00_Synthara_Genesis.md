@@ -1,15 +1,13 @@
 ---
-type: hub
 project: synthara
 module: core
-layer: core
+type: hub
 tags:
   - synthara
   - hub
   - status/active
+layer: core
 ---
-
-
 > [!abstract]
 > **Synthara** — AI-Based Onchain Research Agent  
 > Місія: перетворювати Smart Money сигнали з Base в структуровану аналітику та токенізований інтелект.

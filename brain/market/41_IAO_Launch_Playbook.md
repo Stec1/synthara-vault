@@ -1,15 +1,15 @@
 ---
-type: playbook
 project: synthara
-layer: second
-domain: economy
-status: draft
+module: market
+type: note
 tags:
   - synthara
   - iao
   - launch
+layer: second
+domain: economy
+status: draft
 ---
-
 ← Back to [[04_Economy_Strategy]]
 
 # 41 — IAO Strategy (Pre-Launch Blueprint)

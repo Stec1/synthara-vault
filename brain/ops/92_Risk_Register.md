@@ -1,15 +1,15 @@
 ---
-type: register
 project: synthara
-layer: operating
-domain: risk
-status: active
+module: ops
+type: note
 tags:
   - synthara
   - risk
   - register
+layer: operating
+domain: risk
+status: active
 ---
-
 ← Back to [[06_MOC_Synthara]]
 
 # 92 — Risk Register (v1)

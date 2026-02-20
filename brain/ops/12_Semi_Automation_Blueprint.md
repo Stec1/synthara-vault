@@ -1,12 +1,16 @@
 ---
-type: system
 project: synthara
+module: ops
+type: note
+tags:
+  - synthara
+  - automation
+  - operating
+  - intelligence
 layer: operating
 domain: intelligence
 status: active
-tags: [synthara, automation, operating, intelligence]
 ---
-
 # Semi-Automation Blueprint (v1.0)
 
 ## Objective

@@ -1,18 +1,17 @@
 ---
-type: note
 project: synthara
 module: core
-layer: core
-domain: intelligence
-status: active
+type: note
 tags:
   - synthara
   - core
   - layer/core
   - domain/intelligence
   - status/active
+layer: core
+domain: intelligence
+status: active
 ---
-
 # Synthara Cognitive Core (v1.0)
 
 ## Mission Kernel

@@ -1,12 +1,18 @@
 ---
-type: system
 project: synthara
+module: content
+type: note
+tags:
+  - synthara
+  - system
+  - pipeline
+  - layer/core
+  - domain/distribution
+  - status/active
 layer: core
 domain: distribution
 status: active
-tags: [synthara, system, pipeline, layer/core, domain/distribution, status/active]
 ---
-
 # Post Assembly Line (v1.0)
 
 ## Inputs (Signal Intake)

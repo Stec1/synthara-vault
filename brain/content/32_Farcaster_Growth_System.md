@@ -1,17 +1,17 @@
 ---
-type: module
 project: synthara
-layer: second
-domain: distribution
-status: active
+module: content
+type: note
 tags:
   - synthara
   - farcaster
   - distribution
   - growth
   - casts
+layer: second
+domain: distribution
+status: active
 ---
-
 ← Back to [[05_Content_Matrix]]  
 Also listed in [[06_MOC_Synthara]]
 

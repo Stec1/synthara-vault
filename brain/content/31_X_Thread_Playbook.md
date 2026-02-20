@@ -1,16 +1,16 @@
 ---
-type: playbook
 project: synthara
-layer: second
-domain: distribution
-status: active
+module: content
+type: note
 tags:
   - synthara
   - x
   - threads
   - playbook
+layer: second
+domain: distribution
+status: active
 ---
-
 ← Back to [[05_Content_Matrix]]  
 Also listed in [[06_MOC_Synthara]]  
 Profile: [[15_Brain_Profile_From_Questionnaire]]

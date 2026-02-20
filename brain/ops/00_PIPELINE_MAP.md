@@ -1,12 +1,15 @@
 ---
-type: doc
 project: synthara
+module: ops
+type: note
+tags:
+  - synthara
+  - pipeline
+  - operating
 layer: operating
 domain: console
 status: active
-tags: [synthara, pipeline, operating]
 ---
-
 # Synthara Pipeline Map (v1)
 
 ## Flow

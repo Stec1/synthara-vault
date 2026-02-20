@@ -1,12 +1,16 @@
 ---
-type: template
 project: synthara
+module: ops
+type: note
+tags:
+  - synthara
+  - console
+  - inbox
+  - template
 layer: operating
 domain: console
 status: active
-tags: [synthara, console, inbox, template]
 ---
-
 # Synthara Request (Inbox)
 
 ## Request Type

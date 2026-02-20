@@ -1,12 +1,16 @@
 ---
-type: template
 project: synthara
+module: ops
+type: note
+tags:
+  - synthara
+  - console
+  - outbox
+  - template
 layer: operating
 domain: console
 status: active
-tags: [synthara, console, outbox, template]
 ---
-
 # Synthara Response (Outbox)
 
 ## Intake (09)

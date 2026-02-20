@@ -1,12 +1,16 @@
 ---
-type: template
 project: synthara
+module: ops
+type: note
+tags:
+  - synthara
+  - live-test
+  - inbox
+  - template
 layer: operating
 domain: console
 status: active
-tags: [synthara, live-test, inbox, template]
 ---
-
 # Live Test Request (Inbox)
 
 ## Goal

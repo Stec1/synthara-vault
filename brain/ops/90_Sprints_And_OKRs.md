@@ -1,16 +1,16 @@
 ---
-type: system
 project: synthara
-layer: operating
-domain: management
-status: active
+module: ops
+type: note
 tags:
   - synthara
   - sprints
   - okr
   - operating
+layer: operating
+domain: management
+status: active
 ---
-
 ← Back to [[06_MOC_Synthara]]
 
 # 90 — Sprints & OKRs (v1)
