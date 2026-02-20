@@ -1,13 +1,11 @@
 ---
-type: module
 project: synthara
+module: market
+type: note
+tags: []
 layer: intelligence
 domain: macro
 status: active
-tags:
-  - synthara
-  - oracle
-  - macro
 ---
 
 # Oracle — Macro & Liquidity Conditions

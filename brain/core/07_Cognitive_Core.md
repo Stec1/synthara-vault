@@ -1,16 +1,11 @@
 ---
-type: note
 project: synthara
 module: core
+type: note
+tags: []
 layer: core
 domain: intelligence
 status: active
-tags:
-  - synthara
-  - core
-  - layer/core
-  - domain/intelligence
-  - status/active
 ---
 
 # Synthara Cognitive Core (v1.0)

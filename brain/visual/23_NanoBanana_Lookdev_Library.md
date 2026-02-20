@@ -1,14 +1,11 @@
 ---
-type: library
 project: synthara
+module: visual
+type: note
+tags: []
 layer: second
 domain: production
 status: active
-tags:
-  - synthara
-  - nanobanana
-  - lookdev
-  - library
 ---
 
 ← Back to [[03_Body_Production]]  

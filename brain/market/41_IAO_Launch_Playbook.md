@@ -1,13 +1,11 @@
 ---
-type: playbook
 project: synthara
+module: market
+type: note
+tags: []
 layer: second
 domain: economy
 status: draft
-tags:
-  - synthara
-  - iao
-  - launch
 ---
 
 ← Back to [[04_Economy_Strategy]]

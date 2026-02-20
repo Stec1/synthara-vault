@@ -1,14 +1,11 @@
 ---
-type: system
 project: synthara
+module: ops
+type: system
+tags: []
 layer: operating
 domain: management
 status: active
-tags:
-  - synthara
-  - sprints
-  - okr
-  - operating
 ---
 
 ← Back to [[06_MOC_Synthara]]

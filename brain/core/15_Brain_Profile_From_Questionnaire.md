@@ -1,15 +1,11 @@
 ---
-type: note
 project: synthara
 module: core
+type: note
+tags: []
 layer: core
 domain: intelligence
 status: active
-tags:
-  - synthara
-  - brain-profile
-  - questionnaire
-  - intelligence
 ---
 
 ← Back to [[01_Identity_Soul]]

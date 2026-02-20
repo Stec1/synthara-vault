@@ -1,13 +1,11 @@
 ---
-type: log
 project: synthara
+module: ops
+type: system
+tags: []
 layer: operating
 domain: memory
 status: active
-tags:
-  - synthara
-  - decision-log
-  - learning
 ---
 
 ← Back to [[06_MOC_Synthara]]

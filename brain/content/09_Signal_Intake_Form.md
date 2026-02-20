@@ -1,10 +1,11 @@
 ---
-type: intake
 project: synthara
+module: content
+type: note
+tags: []
 layer: core
 domain: intelligence
 status: active
-tags: [synthara, intake, signal, layer/core, domain/intelligence, status/active]
 ---
 
 # Signal Intake Form (v1.0)

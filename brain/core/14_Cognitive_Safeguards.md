@@ -1,17 +1,11 @@
 ---
-type: note
 project: synthara
 module: core
+type: note
+tags: []
 layer: core
 domain: intelligence
 status: active
-tags:
-  - synthara
-  - cognition
-  - safeguards
-  - layer/core
-  - domain/intelligence
-  - status/active
 ---
 
 # Cognitive Safeguards (v1.0)

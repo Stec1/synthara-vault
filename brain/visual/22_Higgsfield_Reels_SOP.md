@@ -1,14 +1,11 @@
 ---
-type: sop
 project: synthara
+module: visual
+type: note
+tags: []
 layer: second
 domain: production
 status: active
-tags:
-  - synthara
-  - higgsfield
-  - reels
-  - sop
 ---
 
 ← Back to [[03_Body_Production]]  

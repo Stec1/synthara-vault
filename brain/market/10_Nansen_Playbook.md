@@ -1,15 +1,11 @@
 ---
-type: module
 project: synthara
+module: market
+type: note
+tags: []
 layer: second
 domain: intelligence
 status: active
-tags:
-  - synthara
-  - nansen
-  - playbook
-  - onchain
-  - intelligence
 ---
 
 ← Back to [[02_Brain_Intelligence]]  

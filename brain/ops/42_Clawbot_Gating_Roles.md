@@ -1,13 +1,11 @@
 ---
-type: module
 project: synthara
+module: ops
+type: system
+tags: []
 layer: second
 domain: economy
 status: draft
-tags:
-  - synthara
-  - gating
-  - roles
 ---
 
 ← Back to [[04_Economy_Strategy]]

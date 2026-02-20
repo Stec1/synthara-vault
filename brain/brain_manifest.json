@@ -414,7 +414,7 @@
     ]
   },
   "SUMMARY_REPORT.md": {
-    "module": "brain",
+    "module": "core",
     "tags": [],
     "summary": "High-level synthesis report covering current status, insights, and next actions."
   }
