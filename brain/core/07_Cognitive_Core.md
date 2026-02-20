@@ -1,6 +1,6 @@
 ---
 type: note
-project: Synthara
+project: synthara
 module: core
 layer: core
 domain: intelligence

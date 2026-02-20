@@ -1,6 +1,6 @@
 ---
 type: hub
-project: Synthara
+project: synthara
 module: core
 layer: core
 tags:
