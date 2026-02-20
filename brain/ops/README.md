@@ -1,3 +1,6 @@
+---
+project: synthara
+---
 # Synthara Local Orchestrator (v1)
 
 ## Purpose
