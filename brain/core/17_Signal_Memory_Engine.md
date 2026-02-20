@@ -1,17 +1,16 @@
 ---
-type: note
 project: synthara
 module: core
-layer: operating
-domain: memory
-status: active
+type: note
 tags:
   - synthara
   - signal
   - memory
   - consistency
+layer: operating
+domain: memory
+status: active
 ---
-
 ← Back to [[06_MOC_Synthara]]  
 Connect: [[91_Decision_Log]] · [[12_Alpha_Scoring_Model]]
 

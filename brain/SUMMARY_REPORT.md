@@ -1,3 +1,10 @@
+---
+project: synthara
+module: core
+type: note
+tags:
+  - core
+---
 # Brain Reorganization Summary Report
 
 ## Files moved by module

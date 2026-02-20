@@ -1,12 +1,16 @@
 ---
-type: checklist
 project: synthara
+module: ops
+type: note
+tags:
+  - synthara
+  - daily
+  - operator
+  - checklist
 layer: operating
 domain: management
 status: active
-tags: [synthara, daily, operator, checklist]
 ---
-
 # Daily Operator Checklist (5–15 min)
 
 ## Daily (Mon–Fri)

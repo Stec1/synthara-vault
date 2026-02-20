@@ -1,16 +1,16 @@
 ---
-type: system
 project: synthara
-layer: operating
-domain: analytics
-status: active
+module: market
+type: note
 tags:
   - synthara
   - performance
   - intelligence
   - analytics
+layer: operating
+domain: analytics
+status: active
 ---
-
 ← Back to [[06_MOC_Synthara]]  
 Connect: [[90_Sprints_And_OKRs]] · [[91_Decision_Log]]
 

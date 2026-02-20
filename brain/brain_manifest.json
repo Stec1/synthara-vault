@@ -1,421 +1,509 @@
 {
   "00_PIPELINE_MAP.md": {
     "module": "ops",
-    "summary": "Synthara Pipeline Map (v1) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "pipeline",
-      "architecture",
-      "operations"
-    ]
+      "operating"
+    ],
+    "summary": "Synthara Pipeline Map (v1) document defining ops module behavior and reusable workflows for Synthara."
   },
   "00_REQUEST_TEMPLATE.md": {
     "module": "ops",
-    "summary": "Synthara Request (Inbox) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "template",
-      "intake",
-      "ops"
-    ]
+      "synthara",
+      "console",
+      "inbox",
+      "template"
+    ],
+    "summary": "Synthara Request (Inbox) document defining ops module behavior and reusable workflows for Synthara."
   },
   "00_RESPONSE_TEMPLATE.md": {
     "module": "ops",
-    "summary": "Synthara Response (Outbox) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "template",
-      "response",
-      "operations"
-    ]
+      "synthara",
+      "console",
+      "outbox",
+      "template"
+    ],
+    "summary": "Synthara Response (Outbox) document defining ops module behavior and reusable workflows for Synthara."
   },
   "00_Synthara_Genesis.md": {
     "module": "core",
-    "summary": "Mission document defining core module behavior and reusable workflows for Synthara.",
+    "type": "hub",
     "tags": [
-      "mission",
-      "origin",
-      "architecture"
-    ]
+      "synthara",
+      "hub",
+      "status/active"
+    ],
+    "summary": "Mission document defining core module behavior and reusable workflows for Synthara."
   },
   "01_DAILY_OPERATOR_CHECKLIST.md": {
     "module": "ops",
-    "summary": "Daily Operator Checklist (5–15 min) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "checklist",
-      "daily-ops",
-      "reliability"
-    ]
+      "synthara",
+      "daily",
+      "operator",
+      "checklist"
+    ],
+    "summary": "Daily Operator Checklist (5–15 min) document defining ops module behavior and reusable workflows for Synthara."
   },
   "01_Identity_Soul.md": {
     "module": "core",
-    "summary": "Synthara — Identity / Soul document defining core module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "identity",
-      "voice",
-      "principles"
-    ]
+      "synthara",
+      "core",
+      "status/active"
+    ],
+    "summary": "Synthara — Identity / Soul document defining core module behavior and reusable workflows for Synthara."
   },
   "01_LIVE_TEST_TEMPLATE.md": {
     "module": "ops",
-    "summary": "Live Test Request (Inbox) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "template",
-      "testing",
-      "ops"
-    ]
+      "synthara",
+      "live-test",
+      "inbox",
+      "template"
+    ],
+    "summary": "Live Test Request (Inbox) document defining ops module behavior and reusable workflows for Synthara."
   },
   "02_Brain_Intelligence.md": {
     "module": "core",
-    "summary": "Brain — Intelligence Layer document defining core module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "intelligence",
-      "reasoning",
-      "layering"
-    ]
+      "synthara",
+      "core",
+      "status/active"
+    ],
+    "summary": "Brain — Intelligence Layer document defining core module behavior and reusable workflows for Synthara."
   },
   "03_Body_Production.md": {
     "module": "visual",
-    "summary": "Body — Production Layer document defining visual module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "production",
-      "execution",
-      "media-pipeline"
-    ]
+      "synthara",
+      "core",
+      "status/active"
+    ],
+    "summary": "Body — Production Layer document defining visual module behavior and reusable workflows for Synthara."
   },
   "04_Economy_Strategy.md": {
     "module": "market",
-    "summary": "Economy — Strategy Layer document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "economy",
-      "strategy",
-      "value-capture"
-    ]
+      "synthara",
+      "core",
+      "status/active"
+    ],
+    "summary": "Economy — Strategy Layer document defining market module behavior and reusable workflows for Synthara."
   },
   "05_Content_Matrix.md": {
     "module": "content",
-    "summary": "Rubricator document defining content module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "content",
-      "rubric",
-      "format-strategy"
-    ]
+      "synthara",
+      "core",
+      "status/active"
+    ],
+    "summary": "Rubricator document defining content module behavior and reusable workflows for Synthara."
   },
   "06_MOC_Synthara.md": {
     "module": "core",
-    "summary": "06 — Synthara MOC (Map of Content) document defining core module behavior and reusable workflows for Synthara.",
+    "type": "moc",
     "tags": [
-      "index",
-      "knowledge-map",
-      "navigation"
-    ]
+      "synthara",
+      "moc",
+      "status/active"
+    ],
+    "summary": "06 — Synthara MOC (Map of Content) document defining core module behavior and reusable workflows for Synthara."
   },
   "07_Cognitive_Core.md": {
     "module": "core",
-    "summary": "Synthara Cognitive Core (v1.0) document defining core module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "cognition",
-      "decisioning",
-      "framework"
-    ]
+      "synthara",
+      "core",
+      "layer/core",
+      "domain/intelligence",
+      "status/active"
+    ],
+    "summary": "Synthara Cognitive Core (v1.0) document defining core module behavior and reusable workflows for Synthara."
   },
   "08_Post_Assembly_Line.md": {
     "module": "content",
-    "summary": "Post Assembly Line (v1.0) document defining content module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "content-ops",
-      "workflow",
-      "publishing"
-    ]
+      "synthara",
+      "system",
+      "pipeline",
+      "layer/core",
+      "domain/distribution",
+      "status/active"
+    ],
+    "summary": "Post Assembly Line (v1.0) document defining content module behavior and reusable workflows for Synthara."
   },
   "09_Signal_Intake_Form.md": {
     "module": "content",
-    "summary": "Signal Intake Form (v1.0) document defining content module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "signals",
-      "input",
-      "briefing"
-    ]
+      "synthara",
+      "intake",
+      "signal",
+      "layer/core",
+      "domain/intelligence",
+      "status/active"
+    ],
+    "summary": "Signal Intake Form (v1.0) document defining content module behavior and reusable workflows for Synthara."
   },
   "10_Nansen_Playbook.md": {
     "module": "market",
-    "summary": "10 — Nansen Playbook (Synthara Intelligence v1) document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "onchain",
+      "synthara",
       "nansen",
-      "research"
-    ]
+      "playbook",
+      "onchain",
+      "intelligence"
+    ],
+    "summary": "10 — Nansen Playbook (Synthara Intelligence v1) document defining market module behavior and reusable workflows for Synthara."
   },
   "10_Performance_Feedback_System.md": {
     "module": "content",
-    "summary": "Performance Feedback System (v1.0) document defining content module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "feedback",
-      "iteration",
-      "quality"
-    ]
+      "synthara",
+      "performance",
+      "learning",
+      "operating",
+      "domain/distribution"
+    ],
+    "summary": "Performance Feedback System (v1.0) document defining content module behavior and reusable workflows for Synthara."
   },
   "11_Agent_Submodules.md": {
     "module": "core",
-    "summary": "Agent Submodules Architecture (v1.0) document defining core module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "agents",
-      "modularity",
-      "orchestration"
-    ]
+      "synthara",
+      "agent",
+      "architecture",
+      "intelligence"
+    ],
+    "summary": "Agent Submodules Architecture (v1.0) document defining core module behavior and reusable workflows for Synthara."
   },
   "11_Onchain_Sources.md": {
     "module": "market",
-    "summary": "11 — Onchain Sources (v1) document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "onchain",
-      "data-sources",
+      "sources",
       "intelligence"
-    ]
+    ],
+    "summary": "11 — Onchain Sources (v1) document defining market module behavior and reusable workflows for Synthara."
   },
   "12_Alpha_Scoring_Model.md": {
     "module": "market",
-    "summary": "12 — Alpha Scoring Model (v1) document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "alpha",
       "scoring",
-      "prioritization"
-    ]
+      "model",
+      "intelligence"
+    ],
+    "summary": "12 — Alpha Scoring Model (v1) document defining market module behavior and reusable workflows for Synthara."
   },
   "12_Semi_Automation_Blueprint.md": {
     "module": "ops",
-    "summary": "Semi-Automation Blueprint (v1.0) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "automation",
-      "operations",
-      "handoffs"
-    ]
+      "operating",
+      "intelligence"
+    ],
+    "summary": "Semi-Automation Blueprint (v1.0) document defining ops module behavior and reusable workflows for Synthara."
   },
   "13_Draft_Generator_Engine.md": {
     "module": "content",
-    "summary": "Draft Generator Engine (v1.1) document defining content module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "drafting",
-      "generation",
-      "content-engine"
-    ]
+      "synthara",
+      "generator",
+      "automation",
+      "operating",
+      "domain/distribution",
+      "status/active"
+    ],
+    "summary": "Draft Generator Engine (v1.1) document defining content module behavior and reusable workflows for Synthara."
   },
   "13_Wallet_Watchlists.md": {
     "module": "market",
-    "summary": "13 — Wallet Watchlists (v1) document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "wallets",
-      "tracking",
-      "market-signals"
-    ]
+      "watchlists",
+      "intelligence"
+    ],
+    "summary": "13 — Wallet Watchlists (v1) document defining market module behavior and reusable workflows for Synthara."
   },
   "14_Cognitive_Safeguards.md": {
     "module": "core",
-    "summary": "Cognitive Safeguards (v1.0) document defining core module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "safety",
-      "guardrails",
-      "risk-control"
-    ]
+      "synthara",
+      "cognition",
+      "safeguards",
+      "layer/core",
+      "domain/intelligence",
+      "status/active"
+    ],
+    "summary": "Cognitive Safeguards (v1.0) document defining core module behavior and reusable workflows for Synthara."
   },
   "15_Brain_Profile_From_Questionnaire.md": {
     "module": "core",
-    "summary": "Brain Profile (from Questionnaire) — v1.0 document defining core module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "profiling",
-      "persona",
-      "configuration"
-    ]
+      "synthara",
+      "brain-profile",
+      "questionnaire",
+      "intelligence"
+    ],
+    "summary": "Brain Profile (from Questionnaire) — v1.0 document defining core module behavior and reusable workflows for Synthara."
   },
   "16_Performance_Intelligence_Engine.md": {
     "module": "market",
-    "summary": "16 — Performance Intelligence Engine (v1) document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "analytics",
+      "synthara",
       "performance",
-      "insights"
-    ]
+      "intelligence",
+      "analytics"
+    ],
+    "summary": "16 — Performance Intelligence Engine (v1) document defining market module behavior and reusable workflows for Synthara."
   },
   "17_Signal_Memory_Engine.md": {
     "module": "core",
-    "summary": "17 — Signal Memory Engine (v1) document defining core module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
+      "signal",
       "memory",
-      "signal-history",
-      "retrieval"
-    ]
+      "consistency"
+    ],
+    "summary": "17 — Signal Memory Engine (v1) document defining core module behavior and reusable workflows for Synthara."
   },
   "18_Morgana_Sentiment_Module.md": {
     "module": "market",
-    "summary": "Morgana — Sentiment Scanner document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "sentiment",
-      "social-signals",
-      "market-mood"
-    ]
+      "synthara",
+      "morgana",
+      "sentiment"
+    ],
+    "summary": "Morgana — Sentiment Scanner document defining market module behavior and reusable workflows for Synthara."
   },
   "19_Oracle_Macro_Module.md": {
     "module": "market",
-    "summary": "Oracle — Macro & Liquidity Conditions document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "macro",
-      "liquidity",
-      "market-regime"
-    ]
+      "synthara",
+      "oracle",
+      "macro"
+    ],
+    "summary": "Oracle — Macro & Liquidity Conditions document defining market module behavior and reusable workflows for Synthara."
   },
   "20_ComfyUI_Workflows.md": {
     "module": "visual",
-    "summary": "20 — ComfyUI Workflows (v1) document defining visual module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "comfyui",
-      "image-generation",
-      "workflow"
-    ]
+      "workflows",
+      "production"
+    ],
+    "summary": "20 — ComfyUI Workflows (v1) document defining visual module behavior and reusable workflows for Synthara."
   },
   "21_LoRA_Identity_Standard.md": {
     "module": "visual",
-    "summary": "21 — LoRA Identity Standard (v1) document defining visual module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "lora",
-      "brand-identity",
-      "modeling"
-    ]
+      "identity",
+      "standard"
+    ],
+    "summary": "21 — LoRA Identity Standard (v1) document defining visual module behavior and reusable workflows for Synthara."
   },
   "22_Higgsfield_Reels_SOP.md": {
     "module": "visual",
-    "summary": "22 — Higgsfield Reels SOP (v1) document defining visual module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "video",
+      "synthara",
+      "higgsfield",
       "reels",
       "sop"
-    ]
+    ],
+    "summary": "22 — Higgsfield Reels SOP (v1) document defining visual module behavior and reusable workflows for Synthara."
   },
   "23_NanoBanana_Lookdev_Library.md": {
     "module": "visual",
-    "summary": "23 — NanoBanana Lookdev Library (v1) document defining visual module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
+      "nanobanana",
       "lookdev",
-      "visual-style",
-      "asset-library"
-    ]
+      "library"
+    ],
+    "summary": "23 — NanoBanana Lookdev Library (v1) document defining visual module behavior and reusable workflows for Synthara."
   },
   "24_Strategist_Onchain_Core.md": {
     "module": "market",
-    "summary": "Strategist — Onchain Intelligence Core document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "strategy",
-      "onchain",
-      "analysis-core"
-    ]
+      "synthara",
+      "strategist",
+      "onchain"
+    ],
+    "summary": "Strategist — Onchain Intelligence Core document defining market module behavior and reusable workflows for Synthara."
   },
   "25_Futurist_AI_Infra_Module.md": {
     "module": "market",
-    "summary": "Futurist — AI x Crypto Infra Radar document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "ai-infra",
-      "trend-scanning",
-      "emerging-tech"
-    ]
+      "synthara",
+      "futurist",
+      "ai-infra"
+    ],
+    "summary": "Futurist — AI x Crypto Infra Radar document defining market module behavior and reusable workflows for Synthara."
   },
   "30_IG_Reels_System.md": {
     "module": "content",
-    "summary": "30 — IG Reels System (v1) document defining content module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "instagram",
-      "distribution",
-      "content-system"
-    ]
+      "reels",
+      "distribution"
+    ],
+    "summary": "30 — IG Reels System (v1) document defining content module behavior and reusable workflows for Synthara."
   },
   "31_X_Thread_Playbook.md": {
     "module": "content",
-    "summary": "31 — X Thread Playbook (v1) document defining content module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "x",
       "threads",
-      "distribution-playbook"
-    ]
+      "playbook"
+    ],
+    "summary": "31 — X Thread Playbook (v1) document defining content module behavior and reusable workflows for Synthara."
   },
   "32_Farcaster_Growth_System.md": {
     "module": "content",
-    "summary": "32 — Farcaster Growth System (v1) document defining content module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "farcaster",
+      "distribution",
       "growth",
-      "community"
-    ]
+      "casts"
+    ],
+    "summary": "32 — Farcaster Growth System (v1) document defining content module behavior and reusable workflows for Synthara."
   },
   "40_Tokenomics_Working_Draft.md": {
     "module": "market",
-    "summary": "40 — Token Utility Architecture (v1) document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "tokenomics",
-      "incentives",
-      "design"
-    ]
+      "utility",
+      "economy"
+    ],
+    "summary": "40 — Token Utility Architecture (v1) document defining market module behavior and reusable workflows for Synthara."
   },
   "41_IAO_Launch_Playbook.md": {
     "module": "market",
-    "summary": "41 — IAO Strategy (Pre-Launch Blueprint) document defining market module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "iao",
-      "launch",
-      "go-to-market"
-    ]
+      "launch"
+    ],
+    "summary": "41 — IAO Strategy (Pre-Launch Blueprint) document defining market module behavior and reusable workflows for Synthara."
   },
   "42_Clawbot_Gating_Roles.md": {
     "module": "ops",
-    "summary": "42 — Gating Roles (v1) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "access-control",
-      "roles",
-      "automation"
-    ]
+      "synthara",
+      "gating",
+      "roles"
+    ],
+    "summary": "42 — Gating Roles (v1) document defining ops module behavior and reusable workflows for Synthara."
   },
   "43_Moltbook_Office_Structure.md": {
     "module": "ops",
-    "summary": "43 — Office Structure (Intelligence Hub) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "org-design",
-      "team-ops",
-      "operating-model"
-    ]
+      "synthara",
+      "moltbook",
+      "office"
+    ],
+    "summary": "43 — Office Structure (Intelligence Hub) document defining ops module behavior and reusable workflows for Synthara."
   },
   "90_Sprints_And_OKRs.md": {
     "module": "ops",
-    "summary": "90 — Sprints & OKRs (v1) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
+      "sprints",
       "okr",
-      "planning",
-      "execution-cadence"
-    ]
+      "operating"
+    ],
+    "summary": "90 — Sprints & OKRs (v1) document defining ops module behavior and reusable workflows for Synthara."
   },
   "91_Decision_Log.md": {
     "module": "ops",
-    "summary": "91 — Decision Log (v1) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
-      "governance",
-      "decisions",
-      "audit-trail"
-    ]
+      "synthara",
+      "decision-log",
+      "learning"
+    ],
+    "summary": "91 — Decision Log (v1) document defining ops module behavior and reusable workflows for Synthara."
   },
   "92_Risk_Register.md": {
     "module": "ops",
-    "summary": "92 — Risk Register (v1) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "note",
     "tags": [
+      "synthara",
       "risk",
-      "mitigation",
-      "compliance"
-    ]
+      "register"
+    ],
+    "summary": "92 — Risk Register (v1) document defining ops module behavior and reusable workflows for Synthara."
   },
   "README.md": {
     "module": "ops",
-    "summary": "Synthara Local Orchestrator (v1) document defining ops module behavior and reusable workflows for Synthara.",
+    "type": "system",
     "tags": [
-      "orchestrator",
-      "local-runtime",
-      "operations"
-    ]
+      "ops"
+    ],
+    "summary": "Synthara Local Orchestrator (v1) document defining ops module behavior and reusable workflows for Synthara."
   },
   "SUMMARY_REPORT.md": {
-    "module": "brain",
-    "tags": [],
+    "module": "core",
+    "type": "note",
+    "tags": [
+      "core"
+    ],
     "summary": "High-level synthesis report covering current status, insights, and next actions."
   }
 }

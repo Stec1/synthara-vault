@@ -1,16 +1,16 @@
 ---
-type: strategy
 project: synthara
-layer: second
-domain: economy
-status: active
+module: market
+type: note
 tags:
   - synthara
   - tokenomics
   - utility
   - economy
+layer: second
+domain: economy
+status: active
 ---
-
 ← Back to [[04_Economy_Strategy]]  
 Profile: [[15_Brain_Profile_From_Questionnaire]]
 

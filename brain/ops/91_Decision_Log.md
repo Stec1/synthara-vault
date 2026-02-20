@@ -1,15 +1,15 @@
 ---
-type: log
 project: synthara
-layer: operating
-domain: memory
-status: active
+module: ops
+type: note
 tags:
   - synthara
   - decision-log
   - learning
+layer: operating
+domain: memory
+status: active
 ---
-
 ← Back to [[06_MOC_Synthara]]
 
 # 91 — Decision Log (v1)

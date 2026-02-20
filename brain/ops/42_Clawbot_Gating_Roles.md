@@ -1,15 +1,15 @@
 ---
-type: module
 project: synthara
-layer: second
-domain: economy
-status: draft
+module: ops
+type: note
 tags:
   - synthara
   - gating
   - roles
+layer: second
+domain: economy
+status: draft
 ---
-
 ← Back to [[04_Economy_Strategy]]
 
 # 42 — Gating Roles (v1)

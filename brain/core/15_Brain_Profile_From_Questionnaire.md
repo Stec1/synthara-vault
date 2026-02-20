@@ -1,17 +1,16 @@
 ---
-type: note
 project: synthara
 module: core
-layer: core
-domain: intelligence
-status: active
+type: note
 tags:
   - synthara
   - brain-profile
   - questionnaire
   - intelligence
+layer: core
+domain: intelligence
+status: active
 ---
-
 ← Back to [[01_Identity_Soul]]
 Connect: [[07_Cognitive_Core]] · [[14_Cognitive_Safeguards]] · [[12_Semi_Automation_Blueprint]]
 

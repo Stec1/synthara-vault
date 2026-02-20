@@ -1,14 +1,13 @@
 ---
-type: note
 project: synthara
 module: core
-layer: core
+type: note
 tags:
   - synthara
   - core
   - status/active
+layer: core
 ---
-
 ---
 
 

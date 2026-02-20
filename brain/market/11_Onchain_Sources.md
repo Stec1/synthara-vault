@@ -1,16 +1,16 @@
 ---
-type: module
 project: synthara
-layer: second
-domain: intelligence
-status: active
+module: market
+type: note
 tags:
   - synthara
   - onchain
   - sources
   - intelligence
+layer: second
+domain: intelligence
+status: active
 ---
-
 ← Back to [[02_Brain_Intelligence]]
 Also listed in [[06_MOC_Synthara]]
 Profile: [[15_Brain_Profile_From_Questionnaire]]

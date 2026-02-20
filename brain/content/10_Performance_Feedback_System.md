@@ -1,12 +1,17 @@
 ---
-type: system
 project: synthara
+module: content
+type: note
+tags:
+  - synthara
+  - performance
+  - learning
+  - operating
+  - domain/distribution
 layer: operating
 domain: distribution
 status: active
-tags: [synthara, performance, learning, operating, domain/distribution]
 ---
-
 # Performance Feedback System (v1.0)
 
 ## Purpose

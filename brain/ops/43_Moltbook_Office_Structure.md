@@ -1,15 +1,15 @@
 ---
-type: structure
 project: synthara
-layer: second
-domain: economy
-status: draft
+module: ops
+type: note
 tags:
   - synthara
   - moltbook
   - office
+layer: second
+domain: economy
+status: draft
 ---
-
 ← Back to [[04_Economy_Strategy]]
 
 # 43 — Office Structure (Intelligence Hub)
